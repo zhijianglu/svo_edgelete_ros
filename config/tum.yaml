@@ -1,0 +1,41 @@
+%YAML:1.0
+
+#--------------------------------------------------------------------------------------------
+# Camera Parameters. Adjust them!
+#--------------------------------------------------------------------------------------------
+#data_path: "/media/lab/DiskDocuments/Data/pics/DJI47_long/960X540"
+## dji 960 540
+#cam_fx: 670.598859798134
+#cam_fy: 671.530674182169
+#cam_cx: 481.527318331448
+#cam_cy: 272.191272193949
+#
+#d0: 0.0124895471802617
+#d1: -0.0401120223191336
+#d2: -0.000683861165614488
+#d3: 0.00149720377396837
+#d4: 0.0429412541158549
+#
+#cam_width: 960
+#cam_height: 540
+
+
+# dji 768 432
+#data_path: "/media/lab/DiskDocuments/Data/pics/DJI_long3/768x432"
+data_path: "/media/lab/S_disk/data/tum/rgbd_dataset_freiburg3_long_office_household_validation/rgb"
+cam_fx: 537.960322
+cam_fy: 539.597659
+cam_cx: 319.183641
+cam_cy: 247.053820
+
+d0: 0.026370
+d1: -0.100086
+d2: 0.003138
+d3: 0.002421
+d4: 0.000000
+
+cam_width: 640
+cam_height: 480
+
+downsample_factor: 1
+# Camera frames per second 
